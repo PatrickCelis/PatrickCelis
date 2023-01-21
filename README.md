@@ -7,9 +7,13 @@
 
 - 🌱 Estoy aprendiendo muchas cosas sobre **APIs, AWS services y TypeScript.**
 
+- 👯 Me gustaría: **Participar en proyectos Backend en Microsoft, Google o Apple.**
+
 - 💬 Contáctame **jeanpatrickcelis@gmail.com**
 
-- ⚡ Datos sobre mí **Me gusta mantenerme actualizado con las modas y novedades en muchos ámbitos como la programación, desarrollo de juegos y nuevas tendencias.**
+- 📳 Discord **ZeroTheHero#3372**
+
+- ⚡ Datos sobre mí: **Me gusta mantenerme actualizado con las modas y novedades en muchos ámbitos como la programación, desarrollo de juegos y nuevas tendencias.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickcelis&show_icons=true&locale=en" alt="patrickcelis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrickcelis&" alt="patrickcelis" /></p>
-
-
