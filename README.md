@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Jean Patrick Pisconte Celis</h1>
-<h3 align="center">Me gusta la programación BackEnd con experiencia de FrontEnd, mis lenguajes favoritos son Python y JavaScript.</h3>
+<h3 align="center">Conocimiento en BackEnd con experiencia de FrontEnd, mis lenguajes favoritos son Python y JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickcelis&label=Profile%20views&color=0e75b6&style=flat" alt="patrickcelis" /> </p>
 
