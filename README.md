@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrickcelis" alt="patrickcelis" /></a> </p>
 
-- 🌱 Estoy aprendiendo muchas cosas sobre **APIs, AWS services y TypeScript.**
+- 🌱 Estoy aprendiendo sobre: **APIs, AWS services y TypeScript.**
 
 - 👯 Me gustaría: **Participar en proyectos Backend en Microsoft, Google o Apple.**
 
-- 💬 Contáctame **jeanpatrickcelis@gmail.com**
+- 💬 Contáctame: **jeanpatrickcelis@gmail.com**
 
-- 📳 Discord **ZeroTheHero#3372**
+- 📳 Discord: **ZeroTheHero#3372**
 
 - ⚡ Datos sobre mí: **Me gusta mantenerme actualizado con las modas y novedades en muchos ámbitos como la programación, desarrollo de juegos y nuevas tendencias.**
 
