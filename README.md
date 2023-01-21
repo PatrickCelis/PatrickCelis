@@ -15,6 +15,8 @@
 
 - ⚡ Datos sobre mí: **Me gusta mantenerme actualizado con las modas y novedades en muchos ámbitos como la programación, desarrollo de juegos y nuevas tendencias.**
 
+- 🔥 Otras experiencias: **Tengo experiencia en diseño gráfico, ilustración digital, música teórica y práctica.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/patrickpiscontecelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrickpiscontecelis" height="30" width="40" /></a>
